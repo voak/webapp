@@ -1,0 +1,26 @@
+.mat-mdc-form-field {
+    .mat-mdc-form-field-required-marker {
+        color: red;
+    }
+    .mat-mdc-text-field-wrapper.mdc-text-field{
+        background-color: white;
+        border-radius: 3.092px;
+        border: 0.5px solid rgba(46, 44, 44, 0.5)
+    }
+    .mat-mdc-form-field-focus-overlay{
+        background-color: white;
+    }
+    .mat-mdc-floating-label {
+        color: var(--na-blue);
+    }
+    .mdc-line-ripple::before {
+        border: none;
+    }
+    .mdc-line-ripple::after {
+        border: none;
+    }
+    .mat-vertical-stepper-header {
+        pointer-events: none !important;
+    }
+
+}

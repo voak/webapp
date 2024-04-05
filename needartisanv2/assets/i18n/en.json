@@ -1,0 +1,296 @@
+{
+    "LANDING": {
+        "WELCOME": {
+            "WELCOME_HEADER_1": "WELCOME TO",
+            "WELCOME_HEADER_2": "NEED ARTISANS",
+            "WELCOME_TEXT": "Discover a world of exceptional artistry and connect with skilled artisans from diverse backgrounds, all in one place.",
+            "GET_STARTED": "Get Started"
+        },
+        "ABOUT_US": {
+            "HEADING": "ABOUT US",
+            "ABOUT_US_TEXT_1": "Welcome to NeedArtisan, the leading online platform that effortlessly links skilled artisans with customers in search of their exceptional talents and craftsmanship. We have a strong commitment to nurturing artisan talent and creating a flourishing marketplace for their services.",
+            "ABOUT_US_TEXT_2": "At NeedArtisan, we understand the significance of superior craftsmanship and its intrinsic value to both artisans and customers. Serving as a crucial bridge, our platform unites highly proficient artisans across diverse fields with people and businesses in need of their specialized expertise."
+        },
+        "CONTACT_US": {
+            "HEADING": "CONTACT US",
+            "CONTACT_MSG": "Email, call or complete the form to give us a give back or complain a challenge that you may be facing on our website.",
+            "CONTACT_URL_LABEL": "Needartisans.com",
+            "CONTACT_WEBURL": "https://www.needartisans.com",
+            "CONTACT_MOBLE_1_LABEL": "+234 (0) 8155536353",
+            "CONTACT_MOBLE_1": "tel:+234(0)8155536353",
+            "CONTACT_MOBLE_2_LABEL": "+234 (0) 8066453950",
+            "CONTACT_MOBLE_2": "tel:+234(0)8066453950"
+        },
+        "CONTACT_FORM": {
+            "TITLE": "Send us a message",
+            "FIRST_NAME": "First Name",
+            "LAST_NAME": "Last Name",
+            "EMAIL_PHONE": "Email/Phone Number",
+            "COMPANY_NAME": "Company Name",
+            "CONTACT_MESSAGE": "How can we help?"
+        },
+        "REVIEWS": {
+            "HEADING":"Customers and Artisans Reviews",
+            "TEXT": "Both Artisans and Customers love the ease and simplicity"
+        },
+        "FOOTER": {
+            "CUSTOMER": {
+                "HEADING": "Customers",
+                "FIND_ARTISANS": "Find Artisans",
+                "ART_CATEGORIES": "Artisan Categories",
+                "GET_QUOTES": "Get Quotes",
+                "HOW_TO": "How it works",
+                "HELP": "Help & FAQs",
+                "BECOME_CUSTOMER": "Become a Customer"
+            },
+            "ARTISANS": {
+                "HEADING": "Artisans",
+                "JOB_FEEDS": "Job Feeds",
+                "ARTISAN_CATEGOROES": "Artisan Categories",
+                "HOW_TO": "How it works",
+                "HELP": "Help & FAQs",
+                "BECOME_ARTISAN": "Become an Artisan"
+            },
+            "CONTACT_US": {
+                "HEADING": "Contact Us",
+                "EMAIL": "info@needartisans.com",
+                "EMAIL_FORMATTED": "mailto:info@needartisans.com",
+                "PHONE": "+234-805-4576-234",
+                "PHONE_FORMATTED": "tel:+2348054576234"
+            },
+            "EXTRAS": {
+                "COPYRIGHT": "Copyright 2023 NeedArtisans",
+                "RIGHTS": "All rights reserved",
+                "PRIVACY": "Terms of Use & Privavcy Policy",
+                "POWERED": "Powered by PLATNOVATE"
+            },
+            "SOCIALS": {
+                "TEXT": "Follow Us",
+                "DOWNLOAD": "Download Our Apps"
+            }
+
+        }
+    },
+    "ERRORS": {
+        "REQUIRED_INPUT": "This field is required",
+        "REQUIRED_INVALID": "This field content is invalid",
+        "EMAIL_INVALID": "Invalid email address",
+        "PHONE_INVALID": "Incorrect mobile number",
+        "INVALID_NUMBER": "Invalid number value",
+        "INVALID_AMOUNT": "Invalid amount value",
+        "INVALID_PASSWORD_FORMAT": "Password content is invalid!",
+        "PASSWORD_NO_MATCH": "Password does not match"
+    },
+    "WARNING": {
+        "PASSWORD": {
+            "UPPER_CASE": "Includes an Upper Case letter",
+            "LOWER_CASE": "Includes a lower Case letter",
+            "NUMBER": "Includes a number",
+            "SPECIAL_CHARACTER": "Includes a special charcter",
+            "LENGTH": "Length must be at least 8 characters"
+        }
+    },
+    "CUSTOMER_SIGNUP": {
+        "HEADING": "Sign up as a customer",
+        "SUB_TEXT": "Or sign up as an Artisan",
+        "FULL_NAME": "Full Name",
+        "EMAIL": "Email",
+        "MOBILE_NUMBER": "Phone Number",
+        "PASSWORD": "Password",
+        "CONFIRM_PASSWORD": "Confirm Password",
+        "SIGNIN_TEXT_1": "Already have an account?",
+        "SIGNIN_TEXT_2": "Sign in",
+        "SIGNIN_TEXT_3": "or",
+        "SIGNUP": "Sign Up",
+        "VERIFICATION": {
+            "HEADING": "Verify your account",
+            "HEADING_OTP": "OTP Verification",
+            "HEADING_SUCCESS": "Successful",
+            "DESCRIPTION": "Kindly confirm that you still have access to the email/phone number before accessing your account",
+            "OTP_INSTRUCTION": "Kindly enter the OTP sent to your {{mobile}}",
+            "ENTER_CODE": "Enter Code",
+            "RESEND": "Resend Code",
+            "SUCCESS_REDIRECT": "You will be redirected to your account"
+        }
+    },
+    "ARTISAN_SIGNUP": {
+        "HEADING": "Sign up as an Artisan",
+        "SUB_TEXT": "Or sign up as a Customer",
+        "FIRST_NAME": "First Name",
+        "LAST_NAME": "Last Name",
+        "OTHER_NAMES": "Other Names",
+        "NICKNAME": "Nickname",
+        "HOME_LOCATION": "Home Location",
+        "HOME_NUMBER": "Apartment Number",
+        "OFFICE_LOCATION": "Office Location",
+        "OFFICE_NUMBER": "Office Number",
+        "EMAIL": "Email",
+        "MOBILE_NUMBER": "Phone Number",
+        "ARTISAN_CATEGORY": "Artisan Category",
+        "GENDER": "Gender",
+        "MALE": "Male",
+        "FEMALE": "Female",
+        "DATE_OF_BIRTH": "Date of Birth",
+        "PASSWORD": "Password",
+        "CONFIRM_PASSWORD": "Confirm Password",
+        "SIGNIN_TEXT_1": "Already have an account?",
+        "SIGNIN_TEXT_2": "Sign in",
+        "SIGNIN_TEXT_3": "or",
+        "SIGNUP": "Sign Up",
+        "VERIFICATION": {
+            "HEADING": "Verify your account",
+            "HEADING_OTP": "OTP Verification",
+            "HEADING_SUCCESS": "Successful",
+            "DESCRIPTION": "Kindly confirm that you still have access to the email/phone number before accessing your account",
+            "OTP_INSTRUCTION": "Kindly enter the OTP sent to your {{mobile}}",
+            "ENTER_CODE": "Enter Code",
+            "RESEND": "Resend Code",
+            "SUCCESS_REDIRECT": "You will be redirected to your account"
+        },
+        "STEPPER_1": "Personal Information",
+        "STEPPER_2": "Work Information",
+        "STEPPER_3": "Password"
+    },
+    "SIGNIN": {
+        "LOGIN": "Login",
+        "HEADING": "Sign in to Need Artisan",
+        "EMAIL_PHONE": "Email/Phone Number",
+        "PASSWORD": "Password",
+        "BUTTON_TEXT": "Sign In",
+        "REMEMBER_ME": "Remmeber me",
+        "FORGOT_PASSWORD": "Forgot Password?",
+        "SIGNUP_1": "Don't have an account?",
+        "SIGNUP_2": "Sign Up",
+        "SIGNUP_3": "Or"
+    },
+    "PASSWORD_RESET": {
+        "HEADING_1": "Reset your password",
+        "DESCRIPTION_1": "Enter the email/phone number associated with your account and we‘ll send you a link to resent your password.",
+        "HEADING_2": "Enter your OTP",
+        "DESCRIPTION_2": "Please enter the code we sent to {{email}}",
+        "DESC_PART_1": "Didn't receive any code?",
+        "DESC_PART_2": "Send Again",
+        "HEADING_3": "Successful",
+        "DESCRIPTION_3": "Your password has been reset successfully"
+        
+    },
+    "MENU": {
+        "ART_CAT": "Artisan Category",
+        "GET_QUOTE": "Get Quotes",
+        "FIND_ARTISAN": "Find Artisan",
+        "BLOG": "Blog",
+        "SIDEBOARD": {
+            "DASHBOARD": "Dashboard",
+            "PROFILE": "Profile",
+            "CONVERSATIONS": "Conversations",
+            "MY_POSTED_JOBS": "My Posted Jobs",
+            "MY_REQUEST": "My Request",
+            "WALLET_AND_HIST": "Wallet and History",
+            "VERIFICATION": "Verification"
+        },
+        "TOGGLE": {
+            "CUSTOMER": "Customer",
+            "ARTISAN": "Artisan",
+            "SWITCH": "Switch"
+        },
+        "SIGN_OUT": "Sign Out",
+        "DASH_HEADER": {
+            "SEARCH": "Search artisan by name or categories"
+        }
+    },
+    "COMMON": {
+        "NEXT": "Next",
+        "BACK": "Back",
+        "CANCEL": "Cancel",
+        "CONTINUE": "Continue",
+        "SEND": "Send",
+        "EMAIL_PHONE":"Email/Phone Number",
+        "GO_HOME":"Back to Home",
+        "VIEW_ALL": "View all...",
+        "SAVE_CHANGES": "Save Changes",
+        "MALE": "Male",
+        "FEMALE": "Female",
+        "CAMERA": "Camera",
+        "UPLOAD": "Upload",
+        "CLEAR": "Clear",
+        "SUBMIT": "Submit"
+    },
+    "DASHBOARD": {
+        "EDIT_PROFILE": "Edit Profile",
+        "VERIFY_PROFILE": "Verify Profile",
+        "WELCOME_MSG": "Welcome, {{username}}",
+        "CUSTOMER_CODE": "Customer code: {{usercode}}",
+        "ARTISAN_CODE": "Artisan code: {{usercode}}",
+        "POST_JOB": "Post a job",
+        "REQUEST_ARTISAN": "Request Artisan",
+        "VIEW_REQUEST": "View all request",
+        "PREVIOUS_REQ": "Previously Requested Artisan",
+        "JOB_HISTORY": "Job History",
+        "ACTIVITIES": "Activities",
+        "REFER_EARN": "Refer and Earn",
+        "REFER_TEXT": "Earn N1000 when you refer a friend",
+        "ACTIVTIES": "Activites",
+        "MY_JOBS": "My Jobs",
+        "GALLERY": "Gallery",
+        "JOBS_FEEDS": "Jobs Feeds",
+        "SIGN_OUT": "Sign Out"
+    },
+    "PROFILE_MGT": {
+        "HEADER": "My Profile",
+        "EDIT_PROFILE": "Edit Profile",
+        "WELCOME_MSG": "Welcome, {{username}}",
+        "CUSTOMER_CODE": "Customer code: ",
+        "ARTISAN_CODE": "Artisan code: ",
+        "ARTISAN_VERIFICATION_LEVEL": "Verification Level: ",
+        "PERSONAL_INFORMATION": "Personal Information",
+        "EDIT": "Edit",
+        "FIRST_NAME": "First Name",
+        "LAST_NAME": "Last Name",
+        "EMAIL_ADDRESS": "Email Address",
+        "PHONE": "Phone",
+        "DOB": "Date of Birth",
+        "ADDRESS": "Address",
+        "GENDER": "Gender",
+        "ADDRESS_INFORMATION": "Addresss",
+        "HOME_ADDRESS": "Home Address",
+        "BUSINESS_ADDRESS": "Business Address",
+        "VERIFY_EMAIL": "Verify Email"
+    },
+    "KYA" : {
+        "HEADING": "Profile Verification",
+        "WELCOME_MSG": "Hi {{username}},",
+        "IDENTIFICATION": "Identification Document",
+        "ID_TEXT": "Verify your identifcation documents",
+        "VERIFY": "Verify",
+        "PENDNG": "Pending",
+        "VERIFIED": "Verified",
+        "ADDRESS": "Address Verification",
+        "ADD_TEXT": "Verify your address with a Utility bill",
+        "GUARANTOR": "Guarantor Form",
+        "GR_TEXT": "Fill in Guarantor details",
+        "ID_DESCRIPTION": "Select the document you want to verify and input the ID number",
+        "ADD_DESCRIPTION": "Select the utility bill you want to use to verify your address",
+        "ID_TYPE": "Select ID Type",
+        "BILL_TYPE": "Select Bill Type",
+        "ID_NUMBER": "Input ID Number",
+        "G_DETAIL": {
+            "FIRST_NAME": "First name",
+            "LAST_NAME": "Last Name",
+            "OTHER_NAME": "Other Names",
+            "EMAIL": "Email Address",
+            "RELATIONSHIP": "Relationship",
+            "MOBILE": "Mobile",
+            "OCCUPATION": "Occupation",
+            "GENDER": "Gender",
+            "STREET_NAME": "Street Address",
+            "CITY": "City",
+            "STATE": "State",
+            "G_INFORMATION": "Guarantor's Personal Information",
+            "G_ADDRESS": "Guarantor's Address"
+        },
+        "UPLOAD_DOCUMENT": "Upload Document",
+        "ID_UPLOAD": "To confirm your ID, please upload digital photos of your documents",
+        "ADDRESS_UPLOAD": "To confirm your address, please upload digital photos of your bills",
+        "G_UPLOAD": "To confirm your ID, please upload digital photos of Guarantor's NIN card"
+    }
+}
