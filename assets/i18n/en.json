@@ -161,7 +161,9 @@
         "FORGOT_PASSWORD": "Forgot Password?",
         "SIGNUP_1": "Don't have an account?",
         "SIGNUP_2": "Sign Up",
-        "SIGNUP_3": "Or"
+        "SIGNUP_3": "Or",
+        "SIGN_CUSTOMER": "Customer SignIn",
+        "SIGN_ARTISAN": "Artisan SignIn"
     },
     "PASSWORD_RESET": {
         "HEADING_1": "Reset your password",
@@ -186,7 +188,8 @@
             "MY_POSTED_JOBS": "My Posted Jobs",
             "MY_REQUEST": "My Request",
             "WALLET_AND_HIST": "Wallet and History",
-            "VERIFICATION": "Verification"
+            "VERIFICATION": "Verification",
+            "FIND_ARTISAN": "Find Artisan"
         },
         "TOGGLE": {
             "CUSTOMER": "Customer",
@@ -213,7 +216,14 @@
         "CAMERA": "Camera",
         "UPLOAD": "Upload",
         "CLEAR": "Clear",
-        "SUBMIT": "Submit"
+        "SUBMIT": "Submit",
+        "SEARCH": "Search",
+        "FILTER": "Filter by:",
+        "SORT": "Sort by:",
+        "ASCENDING": "Ascending",
+        "DESCENDING": "Descending",
+        "REQUEST": "Request",
+        "VIEW_PROFILE": "View Profile"
     },
     "DASHBOARD": {
         "EDIT_PROFILE": "Edit Profile",
@@ -292,5 +302,22 @@
         "ID_UPLOAD": "To confirm your ID, please upload digital photos of your documents",
         "ADDRESS_UPLOAD": "To confirm your address, please upload digital photos of your bills",
         "G_UPLOAD": "To confirm your ID, please upload digital photos of Guarantor's NIN card"
+    },
+    "FIND_ARTISAN": {
+        "HEADING": "Find & Request Artisan",
+        "HEADING_LABEL": "Please select an Artisan Category and your search address to get search results",
+        "SELECT_CATEGORY": "Select a Category",
+        "ENTER_LOCATION": "Input Location",
+        "FILTER": {
+            "ALL": "All",
+            "RATING": "Rating",
+            "AVAILABILITY": "Availability",
+            "DISTANCE": "Distance",
+            "VERIFICATION_LEVEL": "Verification Level",
+            "FAVOURITE_ARTISAN": "Favourite Artisan"
+        },
+        "NEW_SEARCH": "New Search",
+        "SEARCHING_ARTISANS": "Searching Artisans",
+        "DISTANCE": "{{distance}} Away"
     }
 }
